@@ -1,1 +1,2 @@
-Student Database
+## Student Database
+The program asks the user for the number of students to add, then it prompt the user to enter every student's name, grade year and courses the student enrolled in. the program generates unique ID for every student and takes how much he/she going to pay, then displays the balance between courses cost and payment. In the end, the program prints the whole informations about the students.
